@@ -26,7 +26,7 @@ npm install
 6. **Autorize o Salesforce no seu VsCode**
 - Com as extensões do vscode e sfdx-cli instalados, autorize a org recém criada no vscode digitando `Ctrl + Shift + P` e pesquise por `SFDX: Authorize an Org` e siga as etapas.
 - Seguem links úteis: 
-  - [Salesforce Extension Pack Reloaded](vscode:extension/salesforce.salesforcedx-vscode-expanded)
+  - [Salesforce Extension Pack Reloaded](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-expanded)
   - [Setup VsCode](https://www.youtube.com/watch?v=U5zLx6rX2oI)
 
 6. **Desenvolva os requisitos**
